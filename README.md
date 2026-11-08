@@ -1,4 +1,4 @@
-# React + Firebase Blog (admin-only publishing)
+# blog-website: React + Firebase Blog (admin-only publishing)
 
 **Stack:** React 18 (Vite), Firebase Authentication, Cloud Firestore, Firebase Hosting.
 
